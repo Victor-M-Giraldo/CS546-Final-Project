@@ -1,0 +1,26 @@
+{
+  "name": "cs546-final-project",
+  "version": "1.0.0",
+  "description": "Final project for CS546 taken at Stevens Institute of Tech in the 2024 Fall Semester.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-M-Giraldo/CS546-Final-Project.git"
+  },
+  "author": "Luke Bowyer, Victor Giraldo, Carl Guillaume, Ahmad Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-M-Giraldo/CS546-Final-Project/issues"
+  },
+  "homepage": "https://github.com/Victor-M-Giraldo/CS546-Final-Project#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "handlebars": "^4.7.8",
+    "mongoose": "^8.8.1"
+  }
+}
